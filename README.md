@@ -30,8 +30,8 @@ JavaScript (ES6+)	Interactivity and component logic
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/NiwhanaLakeView.git
-cd NiwhanaLakeView
+
+git clone   (https://github.com/thilankavindu/Niwahana_Lake_Villa_Website.git)
 
 2️⃣ Install dependencies
 npm install
