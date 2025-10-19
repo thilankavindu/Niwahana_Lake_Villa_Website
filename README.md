@@ -23,9 +23,13 @@ Built with Vite + React + TypeScript, this project highlights the villa’s amen
 Technology	Purpose
 
 React + TypeScript	        Frontend framework for modular UI
+
 Vite	                      Fast and modern build tool
+
 Tailwind CSS / Bootstrap	  Styling and layout
+
 HTML5 & CSS3	              Structure and design foundation
+
 JavaScript (ES6+)	         Interactivity and component logic
 
 
