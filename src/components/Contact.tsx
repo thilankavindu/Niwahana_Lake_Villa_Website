@@ -281,7 +281,7 @@ export function Contact() {
   const emailjsPublicKey = 'YOUR_PUBLIC_KEY';
 
   // Phone number for click-to-call
-  const phoneNumber = '+94761234567';
+  const phoneNumber = '+94743560401';
 
   const handlePhoneClick = () => {
     // Remove any non-digit characters except + for international numbers
@@ -549,7 +549,7 @@ export function Contact() {
                       {phoneNumber}
                     </button>
                     <p className="text-gray-500 text-sm mt-1">
-                      Click to call (mobile only)
+                      Click to call or Whatsapp
                     </p>
                   </div>
                 </div>
@@ -561,7 +561,7 @@ export function Contact() {
                       href="mailto:info@niwahanalakeview.com" 
                       className="text-gray-700 hover:text-emerald-700 transition-colors duration-200"
                     >
-                      info@niwahanalakeview.com
+                      tktharindumadushanka@gmail.com 
                     </a>
                   </div>
                 </div>
@@ -572,9 +572,10 @@ export function Contact() {
                       Check-in/Check-out
                     </h4>
                     <p className="text-gray-700">
-                      Check-in: 2:00 PM
+                      Check-in: Anytime
                       <br />
-                      Check-out: 11:00 AM
+                      Check-out: Anytime  <br />
+                      Call Our mobile number for more details
                     </p>
                   </div>
                 </div>

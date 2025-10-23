@@ -59,8 +59,8 @@ export function Rooms() {
                   Panoramic lake views
                 </li>
               </ul>
-              <a href="#contact-booking" className="inline-block bg-emerald-700 text-white px-6 py-3 rounded-md font-medium hover:bg-emerald-600 transition-colors duration-300">
-                Book the Villa
+              <a href="#contact" className="inline-block bg-emerald-700 text-white px-6 py-3 rounded-md font-medium hover:bg-emerald-600 transition-colors duration-300">
+                Book the Villa Contact Us
               </a>
             </div>
             <div className="rounded-lg overflow-hidden shadow-md">
